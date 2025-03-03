@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b7502a8-09ae-4566-a349-769415329947" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myreminder/myreminder/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myreminder/myreminder/Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myreminder/myreminder/Reminder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myreminder/myreminder/ReminderCat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myreminder/myreminder/ReminderViewableItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myreminder/myreminder/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myreminder/myreminder/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myreminder/myreminder/TaskReminder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myreminder/myreminder/TaskReminderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myreminder/myreminder/task_pool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/medialab/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/myreminder/myreminder/addTask.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/myreminder/myreminder/defaultCaution.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/myreminder/myreminder/medialabTaskReminder.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/myreminder/myreminder/setReminder.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/myreminder/myreminder/setReminderRules.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/myreminder/myreminder/updateCategory.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/myreminder/myreminder/updatePriority.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/myreminder/myreminder/updateTask.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/myreminder/myreminder/yellow-caution-triangle.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2paZciG4qNUhMedMCHRBexjphDw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloApplication.executor": "Run",
+    "Application.TaskReminder.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/trpap/Desktop/MyReminder",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\trpap\IdeaProjects\MyReminder\src\main\resources\com\myreminder\myreminder" />
+      <recent name="C:\Users\trpap\IdeaProjects\MyReminder\src\main\java\com\myreminder\myreminder" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\trpap\IdeaProjects\MyReminder\src\main\resources\com\myreminder\myreminder" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-15.0.2-corretto-15.0.2-4caba194b151-9bc2d75a" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b7502a8-09ae-4566-a349-769415329947" name="Changes" comment="" />
+      <created>1733006238994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733006238994</updated>
+      <workItem from="1733006240067" duration="379000" />
+      <workItem from="1733223931687" duration="15697000" />
+      <workItem from="1733351401590" duration="1532000" />
+      <workItem from="1733403175729" duration="728000" />
+      <workItem from="1733404216028" duration="8246000" />
+      <workItem from="1733557443783" duration="6489000" />
+      <workItem from="1734906121837" duration="5849000" />
+      <workItem from="1739629253898" duration="5456000" />
+      <workItem from="1739707299261" duration="148407000" />
+      <workItem from="1740652143120" duration="1493000" />
+      <workItem from="1740654777647" duration="7731000" />
+      <workItem from="1740662537605" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/myreminder/myreminder/TaskReminder.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

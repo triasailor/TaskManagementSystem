@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" >
+   <children>
+      <Pane prefHeight="400.0" prefWidth="600.0">
+         <children>
+            <Label layoutX="168.0" layoutY="68.0" text="Title :">
+               <font>
+                  <Font name="Arial Black" size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="136.0" layoutY="201.0" text="Deadline :">
+               <font>
+                  <Font name="Arial Black" size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="134.0" layoutY="169.0" text="Category :">
+               <font>
+                  <Font name="Arial Black" size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="147.0" layoutY="136.0" text="Priority :">
+               <font>
+                  <Font name="Arial Black" size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="115.0" layoutY="101.0" text="Description :">
+               <font>
+                  <Font name="Arial Black" size="14.0" />
+               </font>
+            </Label>
+            <TextField fx:id="newTaskDescrTextfield" layoutX="226.0" layoutY="100.0" />
+            <TextField fx:id="newTaskTitleTextfield" layoutX="226.0" layoutY="66.0" />
+            <DatePicker fx:id="newTaskDatepicker" layoutX="227.0" layoutY="199.0" prefHeight="25.0" prefWidth="149.0" />
+            <Button fx:id="addNewTaskButton" onMouseClicked="#addNewTask" layoutX="269.0" layoutY="254.0" mnemonicParsing="false" text="Add Task" />
+            <ChoiceBox fx:id="addNewTaskPriorChkbox" layoutX="226.0" layoutY="135.0" prefWidth="150.0" />
+            <ChoiceBox fx:id="addNewTaskCategChkbox" layoutX="225.0" layoutY="168.0" prefWidth="150.0" />
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>
